@@ -1,6 +1,6 @@
-# 🚀 Dchat - Chatwoot Enterprise Unlocker
+# 🚀 Dchat - Ct Enterprise Unlocker
 
-Script para desbloquear funcionalidades enterprise do Chatwoot, removendo limitações da versão community.
+Script para desbloquear funcionalidades enterprise do Ct, removendo limitações da versão community.
 
 ## ⚡ Uso Rápido
 
@@ -52,9 +52,9 @@ lib/chatwoot_hub.rb.backup.YYYYMMDD_HHMMSS
 
 ## 🐳 Compatibilidade
 
-- ✅ Container Docker do Chatwoot
+- ✅ Container Docker do Ct
 - ✅ Instalações Rails padrão
-- ✅ Versões recentes do Chatwoot
+- ✅ Versões recentes do Ct
 
 ## ⚠️ Importante
 
@@ -62,7 +62,7 @@ Este script modifica configurações do Chatwoot para remover limitações comer
 
 ## 🔄 Após a Execução
 
-1. Reinicie o container do Chatwoot
+1. Reinicie o container do Ct
 2. Acesse a interface web
 3. Verifique se as limitações foram removidas
 
